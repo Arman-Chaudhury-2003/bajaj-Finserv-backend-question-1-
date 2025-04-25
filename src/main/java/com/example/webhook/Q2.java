@@ -19,7 +19,7 @@ import java.util.List;
 import java.util.Map;
 
 @SpringBootApplication
-public class BajajFinservApp implements CommandLineRunner {
+public class Q2 implements CommandLineRunner {
 
     private static final String WEBHOOK_URL = "https://bfhldevapigw.healthrx.co.in/hiring/generateWebhook";
     private static final String TEST_WEBHOOK_URL = "https://bfhldevapigw.healthrx.co.in/hiring/testWebhook";
